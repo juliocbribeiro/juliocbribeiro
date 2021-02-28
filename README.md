@@ -2,7 +2,7 @@
 
  - 🇧🇷  My name is Júlio, I'm brazilian.
 
- - :nerd_face: :computer: I'm becoming a great front-end developer!
+ - :nerd_face: :computer: I'm becoming a front-end developer!
  
  - 🌱  I’m currently learning Html, CSS, and Javascript.
 
