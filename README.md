@@ -13,7 +13,7 @@
 💬 Don't hesitate to get in touch!<br>
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/juliocbribeiro)
- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/juliocbr/)
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juliocbr/)
  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jcbr.vet@gmail.com)
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocbribeiro&show_icons=true&theme=react)
